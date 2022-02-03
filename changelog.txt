@@ -1,3 +1,6 @@
+[B]0.0.4 (3-March-21)[/B]
+- Update addon.xml
+
 [B]0.0.3 (30-April-16)[/B]
 - Fix potential texture issues
 
